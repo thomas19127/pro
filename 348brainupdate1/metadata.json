@@ -1,0 +1,6 @@
+{
+  "name": "348 Business Brain",
+  "description": "Digitales zweites Gehirn und modulares Business Operating System für das 348-Business — Life & Business Time OS, Superbrain Orchestration & Digital Twin (Step 4).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
